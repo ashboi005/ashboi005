@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashboi005&label=Profile%20views&color=0e75b6&style=flat" alt="ashboi005" /> </p>
 
-- 🔭 I’m currently working at [Hesh Media](heshmedia.in)
+- 🔭 I’m currently working at [Hesh Media](www.heshmedia.in)
 
 - 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **any fun projects :)**
 
-- 👨‍💻 All of my projects are available at [this github itself lol (yet to make a portfolio website)](this github itself lol (yet to make a portfolio website))
+- 👨‍💻 All of my projects are available at [this github itself lol (yet to make a portfolio website)](github.com/ashboi005))
 
 - 💬 Ask me about **Flask & Django**
 
 - 📫 How to reach me **ashwathsoni005@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashwath-soni-b5bba32ba/](https://www.linkedin.com/in/ashwath-soni-b5bba32ba/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ashwath-soni-b5bba32ba/)
 
 - ⚡ Fun fact **i practically have a sum total of zero hobbies except Coding (for eg i dont even watch movies or listen to songs... yep thats how bad it is)**
 
