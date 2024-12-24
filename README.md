@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwath</h1>
-<h3 align="center">A passionate and dedicated software developer from India. Always excited about new technologies and gadgets. huge tech nerd</h3>
+<h3 align="center">A passionate and dedicated software developer (currently a sophomore) from India. Always excited about new technologies and gadgets. A very hugeee tech nerd and chronically online</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashboi005&label=Profile%20views&color=0e75b6&style=flat" alt="ashboi005" /> </p>
 
