@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any fun projects :)**
 
-- 👨‍💻 All of my projects are available at [this github itself lol (yet to make a portfolio website)](github.com/ashboi005))
+- 👨‍💻 All of my projects are available at [this github itself lol (yet to make a portfolio website)](github.com/ashboi005)
 
 - 💬 Ask me about **Flask & Django**
 
