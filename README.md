@@ -2,6 +2,10 @@
 <h3 align="center">A passionate and dedicated software developer (currently a sophomore) from India. Always excited about new technologies and gadgets. A very hugeee tech nerd and chronically online</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashboi005&label=Profile%20views&color=0e75b6&style=flat" alt="ashboi005" /> </p>
+<img
+  src="https://github.com/ashboi005/ashboi005/blob/main/images/stat.svg"
+  alt=""
+/>
 
 - 🔭 I’m currently working at [Hesh Media](www.heshmedia.in)
 
