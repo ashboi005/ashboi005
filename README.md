@@ -7,9 +7,7 @@
   alt=""
 />
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/5e56bf80-8956-49e9-85b0-61faa0b9659c/project/76acdfb0-b4a8-467d-9ce9-2239f680d183.svg)](https://wakatime.com/badge/user/5e56bf80-8956-49e9-85b0-61faa0b9659c/project/76acdfb0-b4a8-467d-9ce9-2239f680d183)
 
 - 🔭 I’m currently working at [Hesh Media](www.heshmedia.in)
 
