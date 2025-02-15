@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working at [Hesh Media](https://www.heshmedia.in)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Frontend using ReactJS**
 
 - 👯 I’m looking to collaborate on **any fun projects :)**
 
 - 👨‍💻 All of my projects are available at [this github itself lol (yet to make a portfolio website)](github.com/ashboi005)
 
-- 💬 Ask me about **Flask & Django**
+- 💬 Ask me about **Flask, Django & FastAPI**
 
 - 📫 How to reach me **ashwathsoni005@gmail.com**
 
