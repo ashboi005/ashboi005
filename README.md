@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working at [Hesh Media](https://www.heshmedia.in)
 
-- 🌱 I’m currently learning **Frontend using ReactJS**
+- 🌱 I’m currently learning **Frontend using ReactJS and NextJS**
 
 - 👯 I’m looking to collaborate on **any fun projects :)**
 
