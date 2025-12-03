@@ -9,7 +9,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/5e56bf80-8956-49e9-85b0-61faa0b9659c.svg)](https://wakatime.com/@5e56bf80-8956-49e9-85b0-61faa0b9659c)
 
-- 🔭 I’m currently working at [Hesh Media](https://www.heshmedia.in)
+- 🔭 I’m currently working at [Autonomix Solutions](https://autonomixsolutions.com/)
 
 - 🌱 I’m currently learning **Frontend using ReactJS and NextJS**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [this github itself lol (yet to make a portfolio website)](github.com/ashboi005)
 
-- 💬 Ask me about **Flask, Django & FastAPI**
+- 💬 Ask me about **Flask, Django, FastAPI, HONO, Express & Elysia**
 
 - 📫 How to reach me **ashwathsoni005@gmail.com**
 
