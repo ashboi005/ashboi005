@@ -86,6 +86,8 @@ I'm a **passionate backend engineer** and system designer with expertise in **di
   <img src="https://img.shields.io/badge/VPS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="VPS/Linux" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=google-cloud-platform&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Vercel-0B0D0E?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 ### **AI & Search**
