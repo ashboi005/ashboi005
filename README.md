@@ -2,14 +2,11 @@
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ashboi005&label=Profile+views&color=00D9FF&style=flat-square" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Based_in-Amritsar%2C_Punjab-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Student_Developer-GNDU-blueviolet?style=flat-square" alt="Education" />
-  </p>
-  <p>
     <a href="https://wakatime.com/@5e56bf80-8956-49e9-85b0-61faa0b9659c">
       <img src="https://wakatime.com/badge/user/5e56bf80-8956-49e9-85b0-61faa0b9659c.svg?style=flat-square" alt="wakatime" />
     </a>
+    <img src="https://img.shields.io/badge/Based_in-Amritsar%2C_Punjab-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Student_Developer-GNDU-blueviolet?style=flat-square" alt="Education" />
   </p>
 </div>
 
