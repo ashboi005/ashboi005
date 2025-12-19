@@ -131,7 +131,7 @@ I'm a **passionate backend engineer** and system designer with expertise in **di
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashboi005&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashboi005&" alt="ashboi005" />
 </div>
 
 ---
