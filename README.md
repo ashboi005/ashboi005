@@ -130,10 +130,6 @@ I'm a **passionate backend engineer** and system designer with expertise in **di
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashboi005&show_icons=true&locale=en&theme=github_dark&hide_border=true&animation=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashboi005&theme=github_dark" alt="ashboi005" />
-</div>
-
 ---
 
 ## 🏆 Leadership & Teamwork
