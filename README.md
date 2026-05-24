@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate backend engineer** and system designer with expertise in **distributed systems**, **cloud infrastructure**, and **AI/ML integration**. Currently in my 3rd year at **Guru Nanak Dev University** studying Computer Science, I'm chronically online, perpetually coding, and obsessed with building scalable, production-ready systems.
+I'm a **passionate backend engineer** and system designer with expertise in **distributed systems**, **cloud infrastructure**, and **AI/ML integration**. Currently in my 4th year at **Guru Nanak Dev University** studying Computer Science, I'm chronically online, perpetually coding, and obsessed with building scalable, production-ready systems.
 
 **The truth:** I have zero hobbies except coding. No movies. No music. Just pure code. 💻
 
